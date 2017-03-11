@@ -9,7 +9,9 @@ to the most vacant GPU (in terms of memory usage) on multi-GPU systems.
 
 # Dependencies
 
-+ [Jongwook Choi's](https://wook.kr) [gpustat](https://github.com/wookayin/gpustat) library.
++ Jongwook Choi's [gpustat](https://github.com/wookayin/gpustat) library. 
+It can be installed by 
+`pip install gpustat`
 
 # Licensing
 
